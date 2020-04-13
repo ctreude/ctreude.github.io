@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[Home]()[Publications]()[Blog]()[Students]()[Teaching]()[News]()[Awards]()[Activities]()[Talks]()[About]()[Contact]()[CV]()
+|[Publications]()|[Blog]()|[Students]()|[Teaching]()|[News]()|[Awards]()|[Activities]()|[Talks]()|[Contact]()|[CV]()|
+|--|--|--|--|--|--|--|--|--|--|
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

@@ -4,7 +4,7 @@ layout: default
 
 # Hi!
 
-I'm an [ARC DECRA Fellow](https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra) and [Senior Lecturer](https://en.wikipedia.org/wiki/Senior_lecturer) in the [School of Computer Science] at the [University of Adelaide, Australia]. I received my [Ph.D. in Computer Science] from the [University of Victoria, Canada] in 2012. My main research area is [Software Engineering], and the goal of my research is to get information to software developers when and where they need it. I currently serve on the editorial board of the [Empirical Software Engineering journal] and as general co-chair for the [IEEE International Conference on Software Maintenance and Evolution 2020].
+I'm an [ARC DECRA Fellow](https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra){:target="_blank"} and [Senior Lecturer](https://en.wikipedia.org/wiki/Senior_lecturer){:target="_blank"} in the [School of Computer Science] at the [University of Adelaide, Australia]. I received my [Ph.D. in Computer Science] from the [University of Victoria, Canada] in 2012. My main research area is [Software Engineering], and the goal of my research is to get information to software developers when and where they need it. I currently serve on the editorial board of the [Empirical Software Engineering journal] and as general co-chair for the [IEEE International Conference on Software Maintenance and Evolution 2020].
 
 [Link to another page](./another-page.html).
 

@@ -11,9 +11,3 @@ Treude’s research methodology combines empirical studies with the development 
 Treude has received four best paper awards, including two [ACM SIGSOFT Distinguished Paper Awards](https://www.sigsoft.org/awards/distinguishedPaperAward.html). Before joining Singapore Management University, he held senior lecturer positions at the [University of Melbourne](https://www.unimelb.edu.au/) and the [University of Adelaide](https://www.adelaide.edu.au/). He also worked as a postdoctoral researcher at [McGill University](https://www.mcgill.ca/), the [University of São Paulo](https://www5.usp.br/#english), and the [Federal University of Rio Grande do Norte](https://www.ufrn.br/en).
 
 Currently, Treude serves on the Editorial Boards of the [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts) and the [Springer journal on Empirical Software Engineering](https://www.springer.com/journal/10664). He also holds the role of [Open Science Editor](https://www.sciencedirect.com/journal/journal-of-systems-and-software/special-issue/10XMGH48FFT) for the [Elsevier Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software). He has chaired conferences such as [ICSME 2020](https://conferences.computer.org/icsme/#!/toc/0), [ICPC 2023](https://conf.researchr.org/home/icpc-2023), and [TechDebt 2023](https://conf.researchr.org/home/TechDebt-2023) and regularly participates in software engineering conference program committees.
-
-# News
-
-# Selected Grants and Awards
-
-# Selected Publications

@@ -245,3 +245,39 @@ title: Publications
 * [Brittany Reid](https://researchers.adelaide.edu.au/profile/brittany.reid), [Christoph Treude](https://ctreude.ca), and [Markus Wagner](https://cs.adelaide.edu.au/~markus/). *Optimising the Fit of Stack Overflow Code Snippets into Existing Code*. [GI@GECCO '20: International Workshop on Genetic Improvement](http://geneticimprovementofsoftware.com/), 2020.
 
 * [Mihiran Herath](https://ieeexplore.ieee.org/author/37086332784), [Thushari Atapattu](https://www.adelaide.edu.au/directory/thushari.atapattu), [Hoa Anh Dung](https://ecms.adelaide.edu.au/ingenuity/visit-ingenuity/2019-projects/mental-health-patients-on-twitter), [Christoph Treude](https://ctreude.ca), and [Katrina Falkner](https://researchers.adelaide.edu.au/profile/katrina.falkner). *AdelaideCyC at SemEval-2020 Task 12: Ensemble of Classifiers for Offensive Language Detection in Social Media*. [SemEval@COLING '20: International Workshop on Semantic Evaluation](http://alt.qcri.org/semeval2020/), 2020.
+
+### Publications (2019)
+
+* [Hideaki Hata](http://isw3.naist.jp/~hata/), [Christoph Treude](https://ctreude.ca), [Raula Gaikovina Kula](https://raux.github.io/), and [Takashi Ishio](http://isw3.naist.jp/Contents/Research/cs-05-en.html). *9.6 Million Links in Source Code Comments: Purpose, Evolution, and Decay*. [ICSE '19: International Conference on Software Engineering](https://conf.researchr.org/home/icse-2019), 2019. **(Acceptance rate: 21%)**
+
+* [Eliza Thiselton](https://ctreude.ca/students/), [Christoph Treude](https://ctreude.ca). *Enhancing Python Compiler Error Messages via Stack Overflow*. [ESEM '19: International Symposium on Empirical Software Engineering and Measurement](http://eseiw2019.com/esem/), 2019. **(Best Paper, Acceptance rate: 20%)**
+
+* [Zhongxin Liu](https://twitter.com/zhongxin_liu), [Xiaonan Xia](https://xin-xia.github.io/), [Christoph Treude](https://ctreude.ca), [David Lo](http://www.mysmu.edu/faculty/davidlo/), and [Shaowei Li](https://person.zju.edu.cn/en/0087125). *Automatic Generation of Pull Request Descriptions*. [ASE '19: Automated Software Engineering](https://2019.ase-conferences.org/), 2019. **(ACM SIGSOFT Distinguished Paper, Acceptance rate: 23%)**
+
+* [Aldo Sulistya](https://scholar.google.com/citations?user=zZ_Rgi4AAAAJ&hl=en), [Gede Agung A. Prana](https://sites.google.com/view/gprana/), [Abhishek Sharma](https://abhishek9sharma.github.io/), [David Lo](http://www.mysmu.edu/faculty/davidlo/), and [Christoph Treude](https://ctreude.ca). *SIEVE: Helping Developers Sift Wheat from Chaff via Cross-Platform Analysis*. *Empirical Software Engineering*, 2019.
+
+* [Cheng Sheng Yu](https://dev.to/keraito), [Christoph Treude](https://ctreude.ca), and [Maurício Aniche](https://www.mauricioaniche.com/). *Comprehending Test Code: An Empirical Study*. [ICSME '19: International Conference on Software Maintenance and Evolution](https://icsme2019.github.io/), 2019. **(Acceptance rate: 23%)**
+
+* [Christoph Treude](https://ctreude.ca) and [Markus Wagner](https://cs.adelaide.edu.au/users/markus/). *Predicting Good Configurations for GitHub and Stack Overflow Topic Models*. [MSR '19: Mining Software Repositories](https://conf.researchr.org/home/msr-2019), 2019. **(Acceptance rate: 25%)**
+
+* [Abdullah Alqaimi](https://ctreude.ca/students/), [Patanamon Thongtanunam](https://patanamon.com/), and [Christoph Treude](https://ctreude.ca). *Automatically Generating Documentation for Lambda Expressions in Java*. [MSR '19: Mining Software Repositories](https://conf.researchr.org/home/msr-2019), 2019. **(Acceptance rate: 25%)**
+
+* [Hudson Melo](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1998955), [Roberta Coelho](https://www.dimap.ufrn.br/~roberta/), and [Christoph Treude](https://ctreude.ca). *Unveiling Exception Handling Guidelines Adopted by Java Developers*. [SANER '19: Software Analysis, Evolution, and Reengineering](https://saner2019.github.io/), 2019. **(Acceptance rate: 27%)**
+
+* [Igor Steinmacher](http://igorwiese.com/), [Rodrigo T. Kuroda](https://dblp.uni-trier.de/pers/hd/k/Kuroda:Rodrigo_Takashi), [Igor Steinmacher](http://www.igor.pro.br/), [Gustavo A. Oliva](http://www.gaoliva.com/), [Reginaldo Ré](https://br.linkedin.com/in/reginaldo-r%C3%A9-0328aa30), [Christoph Treude](https://ctreude.ca), and [Marco A. Gerosa](https://www.ime.usp.br/~gerosa/). *Are Pieces of Contextual Information Suitable for Predicting Co-Changes? An Empirical Study*. [Software Quality Journal](https://link.springer.com/journal/11219), 2019.
+
+* [Matthew Kelly](https://ctreude.ca/students/), [Christoph Treude](https://ctreude.ca), and [Alex Murray](https://launchpad.net/~alexmurray). *A Case Study on Automated Fuzz Target Generation for Large Codebases*. [ESEM '19: Empirical Software Engineering and Measurement](http://eseiw2019.com/esem/), 2019. **(Acceptance rate: 35%)**
+
+* [Rodrigo Rebouças de Almeida](http://www.rodrigor.com.br/en/start), [Christoph Treude](https://ctreude.ca), and [Uirá Kulesza](https://www.dimap.ufrn.br/~uira/). *Tracy: A Business-driven Technical Debt Prioritization Framework*. [ICSME '19: International Conference on Software Maintenance and Evolution](https://icsme2019.github.io/index.html), 2019. **(Acceptance rate: 56%)**
+
+* [Mathieu Nassif](https://www.cs.mcgill.ca/~martin/students.html), [Christoph Treude](https://ctreude.ca), and [Martin P. Robillard](https://www.cs.mcgill.ca/~martin/index.html). *Witt: Querying Technology Terms based on Automated Classification*. [ICSE '19: International Conference on Software Engineering](https://conf.researchr.org/home/icse-2019), 2019. **(Acceptance rate: 47%)**
+
+* [Sebastian Baltes](https://sbaltes.github.io/), [Christoph Treude](https://ctreude.ca), and [Stephan Diehl](https://www.uni-trier.de/index.php?id=52170). *SOTorrent: Studying the Origin, Evolution, and Usage of Stack Overflow Code Snippets*. [MSR '19: Mining Software Repositories](https://conf.researchr.org/home/msr-2019), 2019. **(Acceptance rate: 33%)**
+
+* [Matthias Galster](https://www.canterbury.ac.nz/engineering/contact-us/people/matthias-galster.html), [Christoph Treude](https://ctreude.ca), and [Kelly Blincoe](https://kblincoe.github.io/). *Supporting Software Architecture Maintenance by Providing Task-specific Recommendations*. [ICSME '19: International Conference on Software Maintenance and Evolution](https://icsme2019.github.io/index.html), 2019.
+
+* [Mahfouth Alghamdi](https://researchers.adelaide.edu.au/profile/mahfouth.a.alghamdi), [Christoph Treude](https://ctreude.ca), and [Markus Wagner](https://cs.adelaide.edu.au/users/markus/). *Toward Human-Like Summaries Generated from Heterogeneous Software Artefacts*. [GI@GECCO '19: Genetic Improvement Workshop](http://geneticimprovementofsoftware.com/), 2019.
+
+* [Christoph Treude](https://ctreude.ca) and [Fernando Figueira Filho](https://www.dimap.ufrn.br/~fernando/). *How Team Awareness Influences Perceptions of Developer Productivity*. In [Rethinking Productivity in Software Engineering](https://www.apress.com/gp/book/9781484242209), edited by C. Sadowski and T. Zimmermann, Apress, 2019, pp. 169–178.
+
+* [Margaret-Anne Storey](http://margaretstorey.com/) and [Christoph Treude](https://ctreude.ca). *Software Engineering Dashboards: Types, Risks, and Future*. In [Rethinking Productivity in Software Engineering](https://www.apress.com/gp/book/9781484242209), edited by C. Sadowski and T. Zimmermann, Apress, 2019, pp. 179–190.

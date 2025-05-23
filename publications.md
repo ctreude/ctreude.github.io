@@ -325,3 +325,131 @@ title: Publications
 * [Flávio Steffens](http://pucrs.academia.edu/Fl%C3%A1vioSteffensdeCastro), [Sabrina Marczak](http://www.inf.pucrs.br/sabrina.marczak/SabrinaMarczak/Welcome.html), [Fernando Figueira Filho](https://scholar.google.com/citations?user=zOH5xn0AAAAJ&hl=en), [Christoph Treude](https://ctreude.ca), and [Claudia de Souza](http://www.cdesouza.net/home). *A Preliminary Evaluation of a Gamification Framework to Jump Start Collaboration Behavior Change*. [CHASE '17: International Workshop on Cooperative and Human Aspects of Software Engineering](http://www.chaseresearch.org/workshops/chase2017), pages 90–91, 2017.
 
 * [Lucas Silva](N/A), [Felipe Pinto](N/A), [Uirá Kulesza](http://www.dimap.ufrn.br/~uira/), and [Christoph Treude](https://ctreude.ca). *PerfMiner Visualizer: uma ferramenta para análise da evolução do atributo de qualidade de desempenho em sistemas de software*. [SBES '17: Brazilian Symposium on Software Engineering](https://cbsoft2017.cin.ufpe.br/en/sbes/), 2017.
+
+### Publications (2016)
+
+* [Christoph Treude](https://ctreude.ca) and [Martin P. Robillard](http://www.cs.mcgill.ca/~martin/). *Augmenting API Documentation with Insights from Stack Overflow*. [ICSE '16: International Conference on Software Engineering](http://2016.icse.cs.txstate.edu/), pages 392–403, 2016. **(Acceptance rate: 19%)**
+
+* [Igor Steinmacher](http://www.igor.pro.br/), [Tayana U. Conte](http://www.icomp.ufam.edu.br/professores/tayana/), [Christoph Treude](https://ctreude.ca), and [Marco A. Gerosa](https://www.ime.usp.br/~gerosa/). *Overcoming Open Source Project Entry Barriers with a Portal for Newcomers*. [ICSE '16: International Conference on Software Engineering](http://2016.icse.cs.txstate.edu/), pages 273–284, 2016. **(Acceptance rate: 19%)**
+
+* [Claudia de Souza](http://www.cdesouza.net/home), [Fernando Figueira Filho](https://scholar.google.com/citations?user=zOH5xn0AAAAJ&hl=en), [Müller Miranda](http://dblp.uni-trier.de/pers/hd/m/Miranda:M=uuml=ller), [Rafael Ferreira](https://scholar.google.com.br/citations?user=Y7Ce3MUAAAAJ&hl=en), [Christoph Treude](https://ctreude.ca), and [Leif Singer](http://leif.me/). *The Social Side of Software Platform Ecosystems*. [CHI '16: Conference on Human Factors in Computing Systems](http://chi2016.acm.org/wp/), pages 3204–3214, 2016. **(Acceptance rate: 23%)**
+
+* [Maurício Aniche](http://www.aniche.com.br/), [Gabriele Bavota](http://www.inf.unibz.it/~gbavota/), [Christoph Treude](https://ctreude.ca), [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/), and [Marco A. Gerosa](https://www.ime.usp.br/~gerosa/). *A Validated Set of Smells in Model-View-Controller Architectures*. [ICSME '16: International Conference on Software Maintenance and Evolution](http://icsme2016.github.io/), pages 233–243, 2016. **(Acceptance rate: 29%)**
+
+* [Igor S. Wiese](http://coint.cm.utfpr.edu.br/docentes/igorwiese), [Igor Steinmacher](http://www.igor.pro.br/), [Christoph Treude](https://ctreude.ca), [J. T. Da Silva](https://www.ime.usp.br/~gerosa/advising.html), and [Marco A. Gerosa](https://www.ime.usp.br/~gerosa/). *Who is who in the mailing list? Comparing six disambiguation heuristics to identify multiple addresses of a participant*. [ICSME '16: International Conference on Software Maintenance and Evolution](http://icsme2016.github.io/), pages 345–355, 2016. **(Acceptance rate: 29%)**
+
+* [Maurício Aniche](http://www.aniche.com.br/), [Christoph Treude](https://ctreude.ca), [Andy Zaidman](http://www.st.ewi.tudelft.nl/~zaidman/), [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/), and [Marco A. Gerosa](https://www.ime.usp.br/~gerosa/). *SATT: Tailoring Code Metric Thresholds for Different Software Architectures*. [SCAM '16: International Working Conference on Source Code Analysis and Manipulation](http://www.ieee-scam.org/2016/), pages 41–50, 2016. **(Acceptance rate: 38%)**
+
+* [Maurício Aniche](http://www.aniche.com.br/), [Marco A. Gerosa](https://www.ime.usp.br/~gerosa/), and [Christoph Treude](https://ctreude.ca). *Developers' Perceptions on Object-Oriented Design and Architectural Roles*. [SBES '16: Brazilian Symposium on Software Engineering](http://cbsoft.org/sbes2016/brazilian-software-engineering-symposium-sbes?lang=en), pages 63–72, 2016.
+
+# Publications (2015)
+
+* [Christoph Treude](https://ctreude.ca), [Martin P. Robillard](http://cs.mcgill.ca/~martin/), and [Barthelemy Dagenais](http://infobart.com/). *Extracting Development Tasks to Navigate Software Documentation*. [IEEE Transactions on Software Engineering](http://www.computer.org/web/tse), 41(6), pages 565–581, 2015.
+
+* [Christoph Treude](https://ctreude.ca), [Fernando Figueira Filho](https://scholar.google.com/citations?user=zOH5xn0AAAAJ&hl=en), and [Uirá Kulesza](https://scholar.google.com/citations?user=-lb3qmgAAAAJ&hl=en). *Summarizing and Measuring Development Activity*. [ESEC/FSE '15: European Software Engineering Conference and Symposium on the Foundations of Software Engineering](http://esec-fse15.dei.polimi.it/), pages 625–636, 2015. **(Acceptance rate: 25%)**
+
+* [Fernando Figueira Filho](https://scholar.google.com/citations?user=zOH5xn0AAAAJ&hl=en), [M. G. Perin](https://scholar.google.com.br/citations?user=5FUSw5IAAAAJ&hl=en), [Christoph Treude](https://ctreude.ca), [Sabrina Marczak](http://www.inf.pucrs.br/sabrina.marczak/SabrinaMarczak/Welcome.html), [Leandro Melo](http://coopera.github.io/team/), [I. Marques da Silva](http://coopera.github.io/team/), and [L. Bibiano dos Santos](http://coopera.github.io/team/). *A Study on the Geographical Distribution of Brazil’s Prestigious Software Developers*. [Journal of Internet Services and Applications](http://www.jisajournal.com/), 6(17), pages 1–12, 2015.
+
+* [Felipe Pinto](http://docente.ifrn.edu.br/felipepinto), [Uirá Kulesza](https://www.dimap.ufrn.br/~uira/), and [Christoph Treude](https://ctreude.ca). *Automating the Performance Deviation Analysis for Multiple System Releases: an Evolutionary Study*. [SCAM '15: International Working Conference on Source Code Analysis and Manipulation](http://www.ieee-scam.org/2015/), pages 201–210, 2015. **(Acceptance rate: 35%)**
+
+* [Rafael Ferreira](https://scholar.google.com.br/citations?user=Y7Ce3MUAAAAJ&hl=en), [M. Miranda](http://dblp.uni-trier.de/pers/hd/m/Miranda:M=uuml=ller), [Fernando Figueira Filho](https://scholar.google.com/citations?user=zOH5xn0AAAAJ&hl=en), [Claudia de Souza](http://www.cdesouza.net/home), [Christoph Treude](https://ctreude.ca), and [Leif Singer](http://leif.me/). *Os Aspectos Sociais dos Ecossistemas de Software*. [SBSC '15: Brazilian Symposium in Collaborative Systems](http://www.ihc2015.unifacs.br/index.php/English/), pages 9–16, 2015. **(Best Paper)**
+
+* [Flávio Steffens](http://pucrs.academia.edu/Fl%C3%A1vioSteffensdeCastro), [Sabrina Marczak](http://www.inf.pucrs.br/sabrina.marczak/SabrinaMarczak/Welcome.html), [Fernando Figueira Filho](https://scholar.google.com/citations?user=zOH5xn0AAAAJ&hl=en), [Christoph Treude](https://ctreude.ca), [Leif Singer](http://leif.me/), [David Redmiles](http://www.ics.uci.edu/~redmiles/), and [Ban Al-Ani](http://www.ics.uci.edu/~balani/). *Using Gamification as a Collaboration Motivator for Software Development Teams: A Preliminary Framework*. [SBSC '15: Brazilian Symposium in Collaborative Systems](http://www.ihc2015.unifacs.br/index.php/English/), pages 48–55, 2015.
+
+* [Jalerson Lima](http://jalerson.me/), [Christoph Treude](https://ctreude.ca), [Fernando Figueira Filho](https://scholar.google.com/citations?user=zOH5xn0AAAAJ&hl=en), and [Uirá Kulesza](https://www.dimap.ufrn.br/~uira/). *Assessing Developer Contribution with Repository Mining-based Metrics*. [ICSME '15: International Conference on Software Maintenance and Evolution](http://www.icsme.uni-bremen.de/), pages 536–540, 2015. **(Acceptance rate: 35%)**
+
+* [Larissa Leite](http://coopera.github.io/team/), [Christoph Treude](https://ctreude.ca), and [Fernando Figueira Filho](https://scholar.google.com/citations?user=zOH5xn0AAAAJ&hl=en). *UEDashboard: Awareness of Unusual Events in Commit Histories*. [ESEC/FSE '15](http://esec-fse15.dei.polimi.it/tools.html), pages 978–981, 2015.
+
+* [Christoph Treude](https://ctreude.ca), [C. Prolo](https://www.inf.pucrs.br/~prolo/), and [Fernando Figueira Filho](https://scholar.google.com/citations?user=zOH5xn0AAAAJ&hl=en). *Challenges in Analyzing Software Documentation in Portuguese*. [SBES '15: Brazilian Symposium on Software Engineering](http://cbsoft.org/sbes2015/brazilian-software-engineering-symposium-sbes), pages 179–184, 2015.
+
+* [Christoph Treude](https://ctreude.ca), [M. Sicard](http://www.cs.mcgill.ca/~martin/students.html), [M. Klocke](http://www.cs.mcgill.ca/~martin/students.html), and [Martin P. Robillard](http://www.cs.mcgill.ca/~martin/). *TaskNav: Task-based Navigation of Software Documentation*. [ICSE '15: International Conference on Software Engineering](http://2015.icse-Conf.s.org/), pages 649–652, 2015. **(Acceptance rate: 60%)**
+
+* [Sabrina Marczak](http://www.inf.pucrs.br/sabrina.marczak/SabrinaMarczak/Welcome.html), [Fernando Figueira Filho](https://scholar.google.com/citations?user=zOH5xn0AAAAJ&hl=en), [Leif Singer](http://leif.me/), [Christoph Treude](https://ctreude.ca), [Flávio Steffens](http://pucrs.academia.edu/Fl%C3%A1vioSteffensdeCastro), [David Redmiles](http://www.ics.uci.edu/~redmiles/), and [Ban Al-Ani](http://www.ics.uci.edu/~balani/). *Studying Gamification as a Collaboration Motivator for Virtual Software Teams: Social Issues, Cultural Issues, and Research Methods*. [CSCW 2015 Workshop on Doing CSCW Research in Latin America](http://researcher.watson.ibm.com/researcher/view_group.php?id=5712), 2015.
+
+* [Larissa Leite](http://coopera.github.io/team/), [Christoph Treude](https://ctreude.ca), and [Fernando Figueira Filho](https://scholar.google.com/citations?user=zOH5xn0AAAAJ&hl=en). *An Automatic Approach to Detect Unusual Events in Software Repositories*. [ELA-ES '15: Latin-American School on Software Engineering](http://www.inf.ufrgs.br/elaes2015/), 2015.
+
+# Publications (2013)
+
+* [Leif Singer](http://leif.me/), [Fernando Figueira Filho](http://fernandofilho.me), [Brendan Cleary](http://brendancleary.com/), [Christoph Treude](https://ctreude.ca), [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey), and [Kurt Schneider](http://www.se.uni-hannover.de/pages/en:mitarbeiter_kurt_schneider). *Mutual Assessment in the Social Programmer Ecosystem: An Empirical Investigation of Developer Profile Aggregators*. [CSCW '13: Conference on Computer Supported Cooperative Work](http://cscw.acm.org/), pages 103–116, 2013. **(Acceptance rate: 36%; Nominated for Best Paper)**
+
+* [Chris Parnin](http://www.cc.gatech.edu/~vector/), [Christoph Treude](https://ctreude.ca), and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey). *Blogging Developer Knowledge: Motivations, Challenges and Future Directions*. [ICPC '13: International Conference on Program Comprehension](http://www.ing.unisannio.it/icpc2013/), pages 211–214, 2013. **(Acceptance rate: 36%; Most Promising Idea Award)**
+
+* [Brendan Cleary](http://brendancleary.com/), [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey), [C. Gomez](http://thechiselgroup.org/members/), [Leif Singer](http://leif.me), and [Christoph Treude](https://ctreude.ca). *Analyzing the Friendliness of Exchanges in an Online Software Developer Community*. [CHASE '13: Workshop on Cooperative and Human Aspects of Software Engineering](http://www.chaseresearch.org/workshops/chase2013), pages 159–160, 2013.
+
+* [Brendan Cleary](http://brendancleary.com/), [Christoph Treude](https://ctreude.ca), [Fernando Figueira Filho](http://fernandofilho.me), [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey), and [M. Salois](http://www.drdc-rddc.gc.ca/). *Improving Tool Support for Software Reverse Engineering in a Security Context*. In *Foundations of Augmented Cognition*, [Lecture Notes in Computer Science](http://www.springer.com/computer/hci/book/978-3-642-39453-9), D. D. Schmorrow and C. M. Fidopiastis (Eds.), pages 113–122, 2013.
+
+* [Ohad Barzilay](http://ohadbr.wix.com/home), [Christoph Treude](https://ctreude.ca), and [Alexey Zagalsky](http://www.cs.tau.ac.il/~alexeyza/). *Facilitating Crowd Sourced Software Engineering via Stack Overflow*. In *Finding Source Code on the Web for Remix and Reuse*, [Springer](http://www.springer.com/computer/swe/book/978-1-4614-6595-9), S. E. Sim and R. Gallardo-Valencia (Eds.), pages 289–308, 2013.
+
+# Publications (2012)
+
+* [Christoph Treude](https://ctreude.ca) and [Margaret-Anne Storey](https://margaretannestorey.wordpress.com). *Work Item Tagging: Communicating Concerns in Collaborative Software Development*. [IEEE Transactions on Software Engineering](http://www.computer.org/portal/web/tse), 38(1):19–34, Jan/Feb 2012. **(Special Section on Selected Papers from ICSE '09)**
+
+* [Christoph Treude](https://ctreude.ca), [Paul Gorman](http://www.thechiselgroup.org/), [Lars Grammel](https://sites.google.com/site/larsgrammel/), and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey). *WorkItemExplorer: Visualizing Software Development Tasks Using an Interactive Exploration Environment*. [ICSE '12: International Conference on Software Engineering](http://www.ifi.uzh.ch/icse2012/), pages 1399–1402, 2012. **(Acceptance rate: 31%)**
+
+* [Christoph Treude](https://ctreude.ca), [Fernando Figueira Filho](http://fernandofilho.me), [Brendan Cleary](http://www.brendancleary.com/), and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey). *Programming in a Socially Networked World: The Evolution of the Social Programmer*. [FutureCSD '12: CSCW Workshop on the Future of Collaborative Software Development](http://research.microsoft.com/en-us/events/futurecsd/), 2012.
+
+* [Christoph Treude](https://ctreude.ca). *The Role of Social Media Artifacts in Collaborative Software Development*. PhD thesis, University of Victoria, 2012. [Link to UVic DSpace](https://dspace.library.uvic.ca:8443/handle/1828/4128?show=full)
+
+* [Chris Parnin](http://www.cc.gatech.edu/~vector/), [Christoph Treude](https://ctreude.ca), [Lars Grammel](https://sites.google.com/site/larsgrammel/), and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey). *Crowd Documentation: Exploring the Coverage and the Dynamics of API Discussions on Stack Overflow*. Georgia Tech Technical Report GIT-CS-12-05, Georgia Institute of Technology, 2012.
+
+# Publications (2011)
+
+* [Christoph Treude](https://ctreude.ca) and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey/). *Effective Communication of Software Development Knowledge Through Community Portals*. [ESEC/FSE '11](http://2011.esec-fse.org/): European Software Engineering Conference and ACM SIGSOFT Symposium on the Foundations of Software Engineering, pages 91–101, 2011. **(Acceptance rate: 17%)**
+
+* [Christoph Treude](https://ctreude.ca), [Fernando Figueira Filho](http://fernandofilho.me), [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey), and [Michel Salois](http://www.drdc-rddc.gc.ca/). *An Exploratory Study of Software Reverse Engineering in a Security Context*. [WCRE '11](http://www.cs.wm.edu/semeru/wcre2011/): Working Conference on Reverse Engineering, pages 184–188, 2011. **(Acceptance rate: 48%)**
+
+* [Christoph Treude](https://ctreude.ca), [Ohad Barzilay](http://ohadbr.wix.com/home), and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey). *How do Programmers Ask and Answer Questions on the Web? (NIER Track)*. [ICSE '11](http://2011.icse-Conf.s.org/): International Conference on Software Engineering, pages 804–807, 2011. **(Acceptance rate: 23%)**
+
+* [Chris Parnin](http://www.cc.gatech.edu/~vector/) and [Christoph Treude](https://ctreude.ca). *Measuring API Documentation on the Web*. [Web2SE '11](https://sites.google.com/site/web2se2011/): International Workshop on Web 2.0 for Software Engineering, pages 25–30, 2011.
+
+* [Christoph Treude](https://ctreude.ca), [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey), [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/), [Andrew Begel](http://research.microsoft.com/en-us/um/people/abegel/), and [Sue Black](http://www.sueblack.co.uk/). *Second International Workshop on Web 2.0 for Software Engineering (Web2SE 2011)*. [ICSE '11](http://2011.icse-Conf.s.org/): International Conference on Software Engineering, pages 1222–1223, 2011.
+
+* [Christoph Treude](https://ctreude.ca), [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey), [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/), [Andrew Begel](http://research.microsoft.com/en-us/um/people/abegel/), and [Sue Black](http://www.sueblack.co.uk/). *Workshop Report from Web2SE 2011: 2nd International Workshop on Web 2.0 for Software Engineering*. [SIGSOFT Software Engineering Notes](http://www.sigsoft.org/SEN/), 36(5):24–29, September 2011.
+
+# Publications (2010)
+
+* [Christoph Treude](https://ctreude.ca) and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey/). *Awareness 2.0: Staying Aware of Projects, Developers and Tasks using Dashboards and Feeds*. [ICSE '10](http://www.sbs.co.za/ICSE2010/): International Conference on Software Engineering – Volume 1, pages 365–374, 2010. **(Acceptance rate: 14%)**
+
+* [Christoph Treude](https://ctreude.ca) and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey/). *Bridging Lightweight and Heavyweight Task Organization: The Role of Tags in Adopting New Task Categories*. [ICSE '10](http://www.sbs.co.za/ICSE2010/): International Conference on Software Engineering – Volume 2, pages 231–234, 2010. **(Acceptance rate: 25%)**
+
+* [Gabriel Bougie](http://www.thechiselgroup.org/members), [Christoph Treude](https://ctreude.ca), [Daniel M. German](http://turingmachine.org/blog/), and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey/). *A Comparative Exploration of FreeBSD Bug Lifetimes*. [MSR '10](http://msr.uwaterloo.ca/msr2010/): Mining Software Repositories, pages 106–109, 2010.
+
+* [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey), [Christoph Treude](https://ctreude.ca), [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/), and [Li-Tze Cheng](http://domino.watson.ibm.com/cambridge/research.nsf/pages/li-te_cheng.html). *The Impact of Social Media on Software Engineering Practices and Tools*. [FoSER '10](http://fse18.cse.wustl.edu/foserprogram.html): Future of Software Engineering Research, pages 359–364, 2010.
+
+* [Lars Grammel](https://sites.google.com/site/larsgrammel/), H. Schackmann, A. Schröter, [Christoph Treude](https://ctreude.ca), and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey/). *Attracting the Community's Many Eyes: an Exploration of User Involvement in Issue Tracking*. [HAoSE '10](http://edu.technion.ac.il/Faculty/OritH/HomePage/HAOSE_OOPSLA_Workshop/index.htm): Human Aspects of Software Engineering, Article 3, 2010.
+
+* [Christoph Treude](https://ctreude.ca) and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey/). *The Implications of How We Tag Software Artifacts: Exploring Different Schemata and Metadata for Tags*. [Web2SE '10](https://sites.google.com/site/web2se/): 1st Workshop on Web 2.0 For Software Engineering, pages 12–13, 2010.
+
+* [Lars Grammel](https://sites.google.com/site/larsgrammel/), [Christoph Treude](https://ctreude.ca), and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey/). *Mashups Environments in Software Engineering*. [Web2SE '10](https://sites.google.com/site/web2se/): 1st Workshop on Web 2.0 For Software Engineering, pages 24–25, 2010.
+
+* [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey), [Lars Grammel](https://sites.google.com/site/larsgrammel/), and [Christoph Treude](https://ctreude.ca). *Smart Media: Bridging Interactions and Services for the Smart Internet*. In *The Smart Internet*, Lecture Notes in Computer Science, M. Chignell, J. Cordy, J. Ng, and Y. Yesha (Eds.), pages 152–169, 2010.
+
+* [Christoph Treude](https://ctreude.ca). *The Role of Emergent Knowledge Structures in Collaborative Software Development*. [ICSE '10](http://www.sbs.co.za/ICSE2010/): International Conference on Software Engineering – Volume 2, pages 389–392, 2010.
+
+* [Christoph Treude](https://ctreude.ca), [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey), [Kate Ehrlich](http://domino.research.ibm.com/cambridge/research.nsf/pages/kate_ehrlich.html), and [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/). *Web2SE: First Workshop on Web 2.0 for Software Engineering*. [ICSE '10](http://www.sbs.co.za/ICSE2010/): International Conference on Software Engineering – Volume 2, pages 457–458, 2010.
+
+* [Christoph Treude](https://ctreude.ca), [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey), [Kate Ehrlich](http://domino.research.ibm.com/cambridge/research.nsf/pages/kate_ehrlich.html), and [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/). *Workshop Report from Web2SE: First Workshop on Web 2.0 for Software Engineering*. [SIGSOFT Software Engineering Notes](http://www.sigsoft.org/SEN/), 35(5):45–50, October 2010.
+
+# Publications (2009)
+
+* [Christoph Treude](https://ctreude.ca) and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey/). *How tagging helps bridge the gap between social and technical aspects in software development*. [ICSE '09](http://www.cs.uoregon.edu/events/icse2009/home/): International Conference on Software Engineering, pages 12–22, 2009. **(Acceptance rate: 12%; invited to TSE Special Section on Selected Papers from ICSE '09)**
+
+* [Christoph Treude](https://ctreude.ca) and [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey/). *ConcernLines: A timeline view of co-occurring concerns*. [ICSE '09](http://www.cs.uoregon.edu/events/icse2009/home/): International Conference on Software Engineering, pages 575–578, 2009. **(Acceptance rate: 33%)**
+
+* [Lars Grammel](https://sites.google.com/site/larsgrammel/), [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey/), and [Christoph Treude](https://ctreude.ca).  *User interfaces for visual analysis and monitoring in business intelligence*. [CASCON '09](https://www-927.ibm.com/ibm/cas/cascon2009/): Conference of the Center for Advanced Studies on Collaborative Research, pages 323–324, 2009.
+
+* [Christoph Treude](https://ctreude.ca), [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey/), and [Jens Weber](http://simbioses.ca/jens/). *Empirical Studies on Collaboration in Software Development: A Systematic Literature Review*. Technical Report DCS-331-IR, Department of Computer Science, University of Victoria, 2009.
+
+# Publications (2008)
+
+* [Christoph Treude](https://ctreude.ca). *Elektronisches Geld*. Term paper published by BoD – Books on Demand, ISBN [9783638666596](https://books.google.ca/books?id=5OJHWCJl1Q0C)
+
+# Publications (2007)
+
+* [Christoph Treude](https://ctreude.ca), [S. Berlik](http://pi.informatik.uni-siegen.de/berlik/), [S. Wenzel](http://pi.informatik.uni-siegen.de/wenzel/), and [U. Kelter](http://pi.informatik.uni-siegen.de/kelter/). *Difference computation of large models*. [ESEC/FSE '07](http://www.idt.mdh.se/esec-fse-2007/): 6th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering, pages 295–304, 2007. **(Acceptance rate: 17%)**
+
+* [Christoph Treude](https://ctreude.ca). *Einsatz multidimensionaler Suchstrukturen zur Optimierung der Bestimmung von Dokumentdifferenzen*. Diplom thesis, Universität Siegen, 2007. *(in German)*
+
+* [Christoph Treude](https://ctreude.ca). *Microsoft Patterns: Web presentation Patterns*. Term paper published by GRIN Verlag, ISBN [9783638666589](https://books.google.ca/books?id=CPSJhmxsEeAC)
+
+* [Christoph Treude](https://ctreude.ca). *Anforderungen an Wissensmanagement*. Term paper published by GRIN Verlag, ISBN [9783638751865](https://books.google.ca/books?id=l9pyYZpO2mEC)

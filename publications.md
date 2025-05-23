@@ -81,3 +81,53 @@ title: Publications
 - [Xiaoyu Guan](https://www.unimelb.edu.au/), and [Christoph Treude](https://ctreude.ca). *Enhancing Source Code Representations for Deep Learning with Static Analysis*. [ICPC '24: Program Comprehension – ERA track](https://conf.researchr.org/home/icpc-2024), 2024.
 
 - [James Caddy](https://ieeexplore.ieee.org/author/37086871914), and [Christoph Treude](https://ctreude.ca). *Prioritising GitHub Priority Labels*. [PROMISE '24: Predictive Models and Data Analytics in Software Engineering](https://promiseconf.github.io/2024/index.html), 2024.
+
+# Publications (2023)
+
+* [Brittany Reid](https://researchers.adelaide.edu.au/profile/brittany.reid), [Marcelo d'Amorim](https://damorim.github.io/), [Markus Wagner](http://www.acrocon.com/~wagner/), and [Christoph Treude](https://ctreude.ca). *NCQ: Code reuse support for Node.js developers*. [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts), 2023. [arXiv](https://arxiv.org/abs/2101.00756)
+
+* [Haoyu Gao](https://cis.unimelb.edu.au/people/students/haoyu-gao), [Christoph Treude](https://ctreude.ca), and [Mansooreh Zahedi](https://findanexpert.unimelb.edu.au/profile/893364-mansooreh-zahedi). *Evaluating Transfer Learning for Simplifying GitHub READMEs*. [ESEC/FSE '23](https://conf.researchr.org/home/fse-2023), 2023.
+
+* [Fabrício Fronchetti](https://fron.ch/), [David Shepherd](https://davidshepherd.weebly.com/), [Igor Wiese](https://igorwiese.com/), [Christoph Treude](https://ctreude.ca), [Marco Aurélio Gerosa](https://www.ime.usp.br/~gerosa/), and [Igor Steinmacher](https://www.igor.pro.br/). *Do CONTRIBUTING files provide information about OSS newcomers’ onboarding barriers?* [ESEC/FSE '23](https://conf.researchr.org/home/fse-2023), 2023.
+
+* [Vittunyuta Maeprasart](https://www.linkedin.com/in/vittunyuta-maeprasart-671046131), [Supatsara Wattanakriengkrai](https://naist-selab.notion.site/Supatsara-Wattanakriengkrai-c05f0ad383eb4354962feb561d182e1b), [Raula Gaikovina Kula](https://raux.github.io/), [Christoph Treude](https://ctreude.ca), and [Kenichi Matsumoto](https://matsumotokenichi.github.io/). *Understanding the Role of External Pull Requests in the NPM Ecosystem*. [Empirical Software Engineering](https://www.springer.com/journal/10664), 2023. [arXiv](https://arxiv.org/abs/2207.04933)
+
+* [Tao Xiao](https://tao-xiao.github.io/), [Sebastian Baltes](https://empirical-software.engineering/), [Hideaki Hata](https://hideakihata.github.io/), [Christoph Treude](https://ctreude.ca), [Raula Gaikovina Kula](https://raux.github.io/), [Takashi Ishio](https://takashi-ishio.github.io/index-en.html), and [Kenichi Matsumoto](https://matsumotokenichi.github.io/). *18 Million Links in Commit Messages: Purpose, Evolution, and Decay*. [Empirical Software Engineering](https://www.springer.com/journal/10664), 2023. [arXiv](https://arxiv.org/abs/2305.16591)
+
+* [João Henrique Bernardo](https://scholar.google.com/citations?user=RWXLTScAAAAJ), [Daniel A. da Costa](https://danielcalencar.github.io/), [Uirá Kulesza](https://www.dimap.ufrn.br/~uira/), and [Christoph Treude](https://ctreude.ca). *The Impact of a Continuous Integration Service on the Delivery Time of Merged Pull Requests*. [Empirical Software Engineering](https://www.springer.com/journal/10664), 2023. [arXiv](https://arxiv.org/abs/2305.16365)
+
+* [Mairieli Wessel](https://mairieli.com/), [Joseph Vargovich](https://www.linkedin.com/in/josephvargovich), [Marco Aurélio Gerosa](https://www.ime.usp.br/~gerosa/), and [Christoph Treude](https://ctreude.ca). *GitHub Actions: The Impact on the Pull Request Process*. [Empirical Software Engineering](https://www.springer.com/journal/10664), 2023. [arXiv](https://arxiv.org/abs/2206.14118)
+
+* [Giovani Guizzo](https://sites.google.com/view/giovaniguizzo/home), [Jie M. Zhang](https://sites.google.com/view/jie-zhang/home), [Federica Sarro](http://www0.cs.ucl.ac.uk/staff/f.sarro/), [Christoph Treude](https://ctreude.ca), and [Mark Harman](http://www0.cs.ucl.ac.uk/staff/M.Harman/). *Mutation Analysis for Evaluating Code Translation*. [Empirical Software Engineering](https://www.springer.com/journal/10664), 2023.
+
+* [Weng Sheng Tan](https://cs.adelaide.edu.au/~optlog/staff.php), [Markus Wagner](https://research.monash.edu/en/persons/markus-wagner), and [Christoph Treude](https://ctreude.ca). *Detecting Outdated Code Element References in Software Repository Documentation*. [Empirical Software Engineering](https://www.springer.com/journal/10664), 2023. [arXiv](https://arxiv.org/abs/2212.01479)
+
+* [Yuan Jiang](http://www.hit.edu.cn/), [Xiaohong Su](http://homepage.hit.edu.cn/suxiaohong), [Christoph Treude](https://ctreude.ca), [Chunyang Shang](http://www.hit.edu.cn/), and [Tiantian Wang](http://homepage.hit.edu.cn/wangtiantian). *Does Deep Learning improve the performance of duplicate bug report detection? An empirical study*. [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software), 2023. [DOI](https://doi.org/10.1016/j.jss.2023.111607)
+
+* [Samantha Ferino](https://caseufrn.github.io/members/), [Mateus Fernandes](https://caseufrn.github.io/members/), [Elder Cirilo](https://dcomp.ufsj.edu.br/~elder/), [Lucas Agnez](https://conf.researchr.org/profile/lucasagnez), [Bruno Batista](https://conf.researchr.org/profile/brunobatista), [Uirá Kulesza](https://www.dimap.ufrn.br/~uira/), [Eduardo Aranha](https://scholar.google.com.au/citations?user=YSeUFToAAAAJ), and [Christoph Treude](https://ctreude.ca). *Overcoming Challenges in DevOps Education through Teaching Methods*. [ICSE ’23: International Conference on Software Engineering – SEET Track](https://conf.researchr.org/home/icse-2023), 2023.
+
+* [Larissa Salerno](https://cis.unimelb.edu.au/people/students/larissa-salerno), [Simone de França Tonhão](https://br.linkedin.com/in/simone-de-fran%C3%A7a-tonh%C3%A3o), [Igor Steinmacher](https://www.igor.pro.br/), and [Christoph Treude](https://ctreude.ca). *Barriers and Self-Efficacy: A Large-Scale Study on the Impact of OSS Courses on Student Perceptions*. [ITiCSE '23](https://iticse.acm.org/2023/), 2023.
+
+* [Dong Wang](https://dong-w.github.io/), [Tao Xiao](https://tao-xiao.github.io/), [Christoph Treude](https://ctreude.ca), [Raula Gaikovina Kula](https://raux.github.io/), [Hideaki Hata](https://hideakihata.github.io/), and [Yasutaka Kamei](https://posl.ait.kyushu-u.ac.jp/~kamei/). *Understanding the Role of Images on Stack Overflow*. [MSR '23: International Conference on Mining Software Repositories](https://conf.researchr.org/home/msr-2023), 2023.
+
+* [Brittany Reid](https://researchers.adelaide.edu.au/profile/brittany.reid), [Christoph Treude](https://ctreude.ca), and [Markus Wagner](https://research.monash.edu/en/persons/markus-wagner). *Using the TypeScript compiler to fix erroneous Node.js snippets*. [SCAM '23](http://www.ieee-scam.org/2023/#home), 2023.
+
+* [Oscar Manglaras](https://au.linkedin.com/in/oscarmanglaras), [Attila Farkas](https://www.adelaide.edu.au/), [Peter Fule](https://au.linkedin.com/in/peter-fule-48815b31), [Christoph Treude](https://ctreude.ca), and [Markus Wagner](https://research.monash.edu/en/persons/markus-wagner). *Problems in Microservice Development: Supporting Visualisation*. [VISSOFT ’23](https://vissoft.info/2023/index.html), 2023.
+
+* [Supatsara Wattanakriengkrai](https://naist-selab.notion.site/Supatsara-Wattanakriengkrai-c05f0ad383eb4354962feb561d182e1b), [Raula Gaikovina Kula](https://raux.github.io/), [Christoph Treude](https://ctreude.ca), and [Kenichi Matsumoto](https://matsumotokenichi.github.io/). *Lessons from the Long Tail: Analysing Unsafe Dependency Updates across Software Ecosystems*. [ESEC/FSE '23 – Ideas, Visions, and Reflections track](https://conf.researchr.org/home/fse-2023), 2023.
+
+* [Christoph Treude](https://ctreude.ca) and [Hideaki Hata](https://hideakihata.github.io/). *She Elicits Requirements and He Tests: Software Engineering Gender Bias in Large Language Models*. [MSR '23: International Conference on Mining Software Repositories](https://conf.researchr.org/home/msr-2023), 2023.
+
+* [Weng Siong Tan](https://cs.adelaide.edu.au/~optlog/staff.php), [Markus Wagner](https://research.monash.edu/en/persons/markus-wagner), and [Christoph Treude](https://ctreude.ca). *Wait, wasn't that code here before? Detecting Outdated Software Documentation*. [ICSME '23](https://conf.researchr.org/home/icsme-2023), 2023. [arXiv](https://arxiv.org/abs/2307.04291)
+
+* [Sebastian Baltes](https://empirical-software.engineering/), [Brian Pfitzmann](https://de.linkedin.com/in/brian-pfitzmann-82a190147), [Thomas Kowark](https://de.linkedin.com/in/thomaskowark), [Christoph Treude](https://ctreude.ca), and [Fabian Beck](https://www.uni-bamberg.de/en/vis/). *Visually Analyzing Company-wide Software Service Dependencies: An Industrial Case Study*. [VISSOFT ’23](https://vissoft.info/2023/index.html), 2023.
+
+* [Rita Garcia](https://www.linkedin.com/in/rita-garcia/), [Christoph Treude](https://ctreude.ca), and [Wendy La](https://au.linkedin.com/in/wendy-la-a793951a5). *Towards Understanding the Open Source Interest in Gender-Related GitHub Projects*. [CHASE '23](https://conf.researchr.org/home/chase-2023), 2023.
+
+* [Rodrigo Rebouças de Almeida](http://www.rodrigor.com.br/en/start), [Christoph Treude](https://ctreude.ca), and [Uirá Kulesza](https://www.dimap.ufrn.br/~uira/). *What's behind tight deadlines? Business causes of technical debt*. [CHASE '23](https://conf.researchr.org/home/chase-2023), 2023. [arXiv](https://arxiv.org/abs/2104.09330)
+
+* [Christoph Treude](https://ctreude.ca). *Navigating Complexity in Software Engineering: A Prototype for Comparing GPT-n Solutions*. [BotSE '23](http://botse.org/), 2023. [arXiv](https://arxiv.org/abs/2301.12169)
+
+* [Youmei Fan](https://cis.unimelb.edu.au/), [Chetan Arora](https://chetanarora.bitbucket.io/), and [Christoph Treude](https://ctreude.ca). *Stop Words for Processing Software Engineering Documents: Do they Matter?* [NLBSE '23](https://nlbse2023.github.io/), 2023.
+
+* [Adriano Torres](https://researchers.adelaide.edu.au/profile/adriano.rodriguesfigueiredotorres), [Sebastian Baltes](https://empirical-software.engineering/), [Christoph Treude](https://ctreude.ca), and [Markus Wagner](https://research.monash.edu/en/persons/markus-wagner). *Applying information theory to software evolution*. [NLBSE '23](https://nlbse2023.github.io/), 2023.

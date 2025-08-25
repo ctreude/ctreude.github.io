@@ -11,6 +11,8 @@ title: Publications
 
 * [Haoyu Gao](https://cis.unimelb.edu.au/people/students/haoyu-gao), [Christoph Treude](https://ctreude.ca), and [Mansooreh Zahedi](https://findanexpert.unimelb.edu.au/profile/893364-mansooreh-zahedi). *Adapting Installation Instructions in Rapidly Evolving Software Ecosystems*. [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts), 2025. [arXiv](https://arxiv.org/abs/2312.03250)
 
+* [Yuan Jiang](http://www.hit.edu.cn/), [Zhichen Qu](https://en.hit.edu.cn/), [Christoph Treude](https://ctreude.ca/), [Xiaohong Su](http://homepage.hit.edu.cn/suxiaohong), and [Tiantian Wang](http://homepage.hit.edu.cn/wangtiantian). *Enhancing Fine-Grained Vulnerability Detection with Reinforcement Learning*. [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts), 2025.
+
 * [Chuyan Ge](https://www.researchgate.net/profile/Ge-Chuyan), [Tiantian Wang](http://homepage.hit.edu.cn/wangtiantian), [Xiaotian Yang](https://en.hit.edu.cn/), and [Christoph Treude](https://ctreude.ca). *Cross-Level Requirements Tracing Based on Large Language Models*. [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts), 2025.
 
 * [Junda He](https://jundahe.notion.site/), [Christoph Treude](https://ctreude.ca), and [David Lo](https://faculty.smu.edu.sg/profile/david-lo-901). *LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision and the Road Ahead*. [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem), 2025. [arXiv](https://arxiv.org/abs/2404.04834)
@@ -40,6 +42,8 @@ title: Publications
 * [Marc Cheong](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong), [Sankwi Abuzo](https://www.unitech.ac.pg/), [Hideaki Hata](https://hideakihata.github.io/), [Priscilla Kevin](https://wsa-global.org/person/priscilla-kevin/), [Winifred Kula](https://twitter.com/winikula), [Benson Mirou](https://www.unitech.ac.pg/), [Christoph Treude](https://ctreude.ca), [Dong Wang](https://dong-w.github.io/), and [Raula Gaikovina Kula](https://raux.github.io/). *Building Bridges across Papua New Guinea's Digital Divide in Growing the ICT Industry*. [SEiGS '25: Symposium on Software Engineering in the Global South](https://conf.researchr.org/track/icse-2025/icse-2025-symposium-on-software-engineering-in-the-global-south), 2025. [arXiv](https://arxiv.org/abs/2501.09482)
 
 * [Christoph Treude](https://ctreude.ca) and [Christopher M. Poskitt](https://cposkitt.github.io/). *Bot-Driven Development: From Simple Automation to Autonomous Software Development Bots*. [BotSE '25: International Workshop on Bots in Software Engineering](https://conf.researchr.org/home/icse-2025/botse-2025), 2025. [arXiv](https://arxiv.org/abs/2411.16100)
+
+* [Zara Hassan](https://comp.anu.edu.au/people/zara-hassan/), [Christoph Treude](https://ctreude.ca/), [Graham Williams](https://comp.anu.edu.au/people/graham-williams/), [Michael Norrish](https://comp.anu.edu.au/people/michael-norrish/), and [Alex Potanin](https://potanin.github.io/). *Reproducibility Debt in Scientific Software*. [SPLASH '25: International Conference on Systems, Programming, Languages, and Applications: Software for Humanity - Poster track](https://2025.splashcon.org/), 2025.
 
 # Publications (2024)
 

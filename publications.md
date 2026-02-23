@@ -11,6 +11,8 @@ title: Publications
 
 * [Yuan Jiang](http://www.hit.edu.cn/), [Shan Huang](http://www.hit.edu.cn/), [Christoph Treude](https://ctreude.ca/), [Xiaohong Su](http://homepage.hit.edu.cn/suxiaohong), and [Tiantian Wang](http://homepage.hit.edu.cn/wangtiantian). *Shield Broken: Black-Box Adversarial Attacks on LLM-Based Vulnerability Detectors*. [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts), 2026.
 
+* [Junda He](https://jundahe.github.io/), [Jieke Shi](https://jiekeshi.tech/), [Terry Yue Zhuo](https://terryyz.github.io/), [Christoph Treude](https://ctreude.ca/), [Jiamou Sun](https://au.linkedin.com/in/jiamou-sun-7a546a204), [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/), [Xiaoning Du](https://xiaoningdu.github.io/), and [David Lo](http://www.mysmu.edu/faculty/davidlo/). *LLM-as-a-Judge for Software Engineering: Literature Review, Vision, and the Road Ahead*. [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem), 2026.
+
 * [David Moreno-Lumbreras](https://dlumbrer.gitlab.io/), [Raula Gaikovina Kula](https://raux.github.io/), and [Christoph Treude](https://ctreude.ca/). *BonsAIDE: An Extended Vision for Human-AI Interaction in IDEs*. [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem), 2026.
   
 * [Changwen Li](https://au.linkedin.com/in/changwen-li), [Christoph Treude](https://ctreude.ca), and [Ofir Turel](https://oturel1.wixsite.com/ofirturel). *Do comments and expertise still matter? An experiment on programmers’ adoption of AI-generated JavaScript code*. [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software), 2026. [arXiv](https://arxiv.org/abs/2503.11453)
@@ -18,6 +20,8 @@ title: Publications
 * [Najam Nazar](https://najamnazar.github.io/), [Sameer Sikka](https://github.com/SamSike), and [Christoph Treude](https://ctreude.ca). *DPS: Design pattern summarisation using code features*. [Empirical Software Engineering](https://link.springer.com/journal/10664), 2026. [arXiv](https://arxiv.org/abs/2504.11081)
 
 * [Rita Garcia](https://www.linkedin.com/in/rita-garcia/) and [Christoph Treude](https://ctreude.ca). *A Case Study of Gender and Online Team Communication in Software Engineering Education*. [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software), 2026.
+
+* [Vinay Kabadi](https://au.linkedin.com/in/vinaykabadi), [Bach Le](https://xuanbachle.github.io/), [Patanamon Thongtanunam](https://patanamon.com/), and [Christoph Treude](https://ctreude.ca/). *Just-in-Time Bug Classifier: A Step Towards Integrating Automated Program Repair in CI/CD Pipelines*. [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology), 2026.
 
 * [Seyedmoein Mohsenimofidi](https://se-uhd.de/), [Matthias Galster](https://www.uni-bamberg.de/en/ese/team/matthias-galster/), [Christoph Treude](https://ctreude.ca), and [Sebastian Baltes](https://empirical-software.engineering/). *Context Engineering for AI Agents in Open-Source Software*. [MSR '26: International Conference on Mining Software Repositories](https://2026.msrconf.org/), 2026. [arXiv](https://arxiv.org/abs/2510.21413)
 

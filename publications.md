@@ -25,7 +25,7 @@ title: Publications
 
 * [Seyedmoein Mohsenimofidi](https://se-uhd.de/), [Matthias Galster](https://www.uni-bamberg.de/en/ese/team/matthias-galster/), [Christoph Treude](https://ctreude.ca), and [Sebastian Baltes](https://empirical-software.engineering/). *Context Engineering for AI Agents in Open-Source Software*. [MSR '26: International Conference on Mining Software Repositories](https://2026.msrconf.org/), 2026. [arXiv](https://arxiv.org/abs/2510.21413)
 
-* [Pien Rooijendijk](Pien Rooijendijk), [Christoph Treude](https://ctreude.ca/), and [Mairieli Wessel](https://mairieli.com/). *Who Said CVE? How Vulnerability Identifiers Are Mentioned by Humans, Bots, and Agents in Pull Requests*. [MSR '26: International Conference on Mining Software Repositories - Mining Challenge](https://2026.msrconf.org/), 2026.
+* [Pien Rooijendijk](https://prooijendijk.nl/), [Christoph Treude](https://ctreude.ca/), and [Mairieli Wessel](https://mairieli.com/). *Who Said CVE? How Vulnerability Identifiers Are Mentioned by Humans, Bots, and Agents in Pull Requests*. [MSR '26: International Conference on Mining Software Repositories - Mining Challenge](https://2026.msrconf.org/), 2026.
 
 * [Haoyu Gao](https://haoyu-gao.github.io/), [Peerachai Banyongrakkul](https://jaypeerachai.github.io/), [Hao Guan](https://www.unimelb.edu.au/), [Mansooreh Zahedi](https://findanexpert.unimelb.edu.au/profile/893364-mansooreh-zahedi), and [Christoph Treude](https://ctreude.ca/). *On Autopilot? An Empirical Study of Human–AI Teaming and Review Practices in Open Source*. [MSR '26: International Conference on Mining Software Repositories - Mining Challenge](https://2026.msrconf.org/), 2026.
 
